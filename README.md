@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou a Ruthelene 👋</h1>
 
-<!--
-**Ruthelene/Ruthelene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Ciencia da computação na Universidade Federal do Amazonas <br>
+  Interessada em [programação, algoritmos, web, dados...]
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📂 Projetos em destaque
+
+- **[Aplicativo_cronograma_2026_2](https://github.com/Ruthelene/Aplicativo_cronograma_2026_2)**: breve descrição do que faz
+- **[Trabalho4-AED2](https://github.com/Ruthelene/Trabalho4-AED2)**: trabalho de Algoritmos e Estruturas de Dados 2, em C
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/ruthelene/) · [E-mail](mailto:ruthelene.farias@gmail.com)
