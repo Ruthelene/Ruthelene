@@ -14,7 +14,7 @@
 
 ## 📂 Projetos em destaque
 
-- **[Aplicativo_cronograma_2026_2](https://github.com/Ruthelene/Aplicativo_cronograma_2026_2)**: breve descrição do que faz
+- **[Aplicativo_cronograma_2026_2](https://github.com/Ruthelene/Aplicativo_cronograma_2026_2)**: 
 - **[Trabalho4-AED2](https://github.com/Ruthelene/Trabalho4-AED2)**: trabalho de Algoritmos e Estruturas de Dados 2, em C
 
 ## 📫 Contato
